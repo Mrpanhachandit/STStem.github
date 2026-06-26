@@ -198,7 +198,7 @@
 <div class="flex flex-col items-center text-center">
 <div class="w-24 h-24 rounded-full overflow-hidden mb-stack-md border-2 border-secondary p-1">
 <img class="w-full h-full object-cover rounded-full group-hover:saturate-150 transition-standard" data-alt="Portrait of Sarah Jenkins, a professional woman with glasses and blonde hair in professional attire. Soft corporate lighting in a bright, modern glass-walled office environment. High-definition tech aesthetic, professional and
- confident look." src="c:\Users\Super dog\Documents\stem2026\hak.jpg"/>
+ confident look." src="[c:\Users\Super dog\Documents\stem2026\hak.jpg](https://github.com/Mrpanhachandit/STStem.github/blob/main/hak.jpg?)"/>
 </div>
 <h3 class="font-headline-md text-headline-md text-primary mb-1">chhaay meng hak</h3>
 <p class="font-label-md text-label-md text-secondary mb-stack-sm uppercase tracking-wider">Designer</p>
